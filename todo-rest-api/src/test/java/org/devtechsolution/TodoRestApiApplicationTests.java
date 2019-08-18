@@ -1,4 +1,4 @@
-package org.devtechsolution.todorestapi;
+package org.devtechsolution;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
